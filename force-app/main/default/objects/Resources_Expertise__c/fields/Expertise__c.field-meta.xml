@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Expertise__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Expertise</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Expertise</inlineHelpText>
+    <label>Expertise</label>
+    <referenceTo>Expertise__c</referenceTo>
+    <relationshipLabel>Resources and Expertise</relationshipLabel>
+    <relationshipName>Resources_and_Expertise</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

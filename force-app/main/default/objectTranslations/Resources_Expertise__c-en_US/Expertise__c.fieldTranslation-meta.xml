@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Expertise --></help>
+    <label><!-- Expertise --></label>
+    <name>Expertise__c</name>
+    <relationshipLabel><!-- Resources and Expertise --></relationshipLabel>
+</CustomFieldTranslation>
