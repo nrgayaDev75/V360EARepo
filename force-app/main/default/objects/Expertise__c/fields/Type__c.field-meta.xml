@@ -15,12 +15,12 @@
             <value>
                 <fullName>Non-technical</fullName>
                 <default>false</default>
-                <label>Non-technical User</label>
+                <label>Non-technical</label>
             </value>
             <value>
                 <fullName>Technical</fullName>
                 <default>false</default>
-                <label>Technical User</label>
+                <label>Technical</label>
             </value>
         </valueSetDefinition>
     </valueSet>

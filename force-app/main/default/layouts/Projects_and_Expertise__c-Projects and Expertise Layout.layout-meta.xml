@@ -19,6 +19,10 @@
                 <behavior>Edit</behavior>
                 <field>ExpertiseE__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Expertise_Level__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns/>
         <style>TwoColumnsTopToBottom</style>
