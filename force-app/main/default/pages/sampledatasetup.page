@@ -1,0 +1,14 @@
+<apex:page controller="AddSampleEAData" >
+<apex:form >
+<apex:pageblock >
+<apex:pageblockSection >
+  <apex:outputLabel value="Load Sample Data" />
+  <apex:commandButton value="Load" action="{!generate}"/>
+  </apex:pageblockSection>
+  <apex:pageblockSection >
+  <apex:outputLabel value="Delete Sample Data" />
+  <apex:commandButton value="Delete" action="{!DeleteRecords}"/>
+  </apex:pageblockSection>
+  </apex:pageblock>
+  </apex:form>
+</apex:page>

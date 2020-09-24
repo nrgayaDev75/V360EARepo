@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveDashboard xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <content xsi:nil="true"/>
+    <application>V360EAHackathon</application>
+    <description>V360EAHackathon dashboard</description>
+    <masterLabel>V360EAHackathon dashboard</masterLabel>
+    <templateAssetSourceName>V360EAHackathonDashboard_tp</templateAssetSourceName>
+</WaveDashboard>
